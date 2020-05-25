@@ -1,0 +1,6 @@
+** May 2020 **
+23 - ML - Studied EM and wrote blog with convergence proof - 2
+24 - ML - Studied EM and derived for MoG - 1
+24 - CUDA - Studied lecture 2 - 1
+25 - onekh - First pass to create data model for UI - 1 
+25 - onekh - Worked on simple app that works from txt file and also learned some python class concepts - 1
